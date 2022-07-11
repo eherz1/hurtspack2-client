@@ -1,0 +1,10 @@
+.DS_Store
+logs/
+XaeroWaypoints/
+XaeroWorldMap/
+saves/
+crash-reports/
+options.txt
+usercache.json
+usernamecache.json
+XaeroWaypoints_BACKUP*
