@@ -237,7 +237,7 @@ betteranimalsplus:turkeyegg
 betteranimalsplus:goose_egg
 betteranimalsplus:golden_goose_egg
 thermaldynamics:transport
+forestry:butterflyge
 forestry:cart.beehouse
 forestry:cart.apiary
-forestry:butterflyge
 corpse:corpse

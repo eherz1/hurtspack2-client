@@ -36,8 +36,6 @@ thaumcraft:deathgaze
 thaumcraft:blurredvision
 thaumcraft:sunscorned
 thaumcraft:thaumarhia
-apotheosis:sundering
-apotheosis:knowledge
 xaerominimap:no_minimap
 xaerominimap:no_minimap_harmful
 xaerominimap:no_minimap_beneficial
